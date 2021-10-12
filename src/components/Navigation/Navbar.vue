@@ -140,11 +140,6 @@ const dataNavbar: NavbarMenu[] = [
           <carbon-table-of-contents class="mr-2" />Articles
         </li>
       </router-link>
-      <router-link to="/about" class="bg-elucidator-50 dark:bg-elucidator-500 p-2 mb-2 rounded-md">
-        <li class="flex flex-row flex-wrap items-center dark:text-elucidator-100">
-          <uil-document-layout-center class="mr-2" />About
-        </li>
-      </router-link>
     </ul>
   </nav>
   <!-- Search -->
