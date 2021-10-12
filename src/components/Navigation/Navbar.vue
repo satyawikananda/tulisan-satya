@@ -53,10 +53,6 @@ const dataNavbar: NavbarMenu[] = [
     name: 'Articles',
     to: '/articles'
   },
-  {
-    name: 'About',
-    to: '/about'
-  }
 ]
 </script>
 
