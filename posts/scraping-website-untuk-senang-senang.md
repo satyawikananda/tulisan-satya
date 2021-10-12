@@ -1,6 +1,6 @@
 ---
 name: Scraping Website untuk Senang-senang
-thumbnail: https://ibb.co/Lzfs6Dt
+thumbnail: https://i.ibb.co/jvFjG9M/banner.jpg
 date: 2020-12-03
 description: Pada tulisan saat ini, saya ingin membagikan pengalaman saya mengenai web scraping, yuk simak selengkapnya...
 tags: ['scraping-website', 'node-js']

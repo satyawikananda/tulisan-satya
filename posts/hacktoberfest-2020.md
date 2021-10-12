@@ -1,6 +1,6 @@
 ---
 name: Ayo ikutan Hacktoberfest 2020
-thumbnail: https://ibb.co/rZSbdT2
+thumbnail: https://i.ibb.co/HrsNh1T/hacktoberfest.png
 date: 2020-09-11
 description: Di postingan kali ini, saya akan membagikan info seru nih, yaitu Hacktoberfest :D. Apasih Hacktoberfest itu?🤔, yuk simak selengkapnya...
 tags: ['hacktoberfest', 'info', 'event']
