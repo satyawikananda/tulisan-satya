@@ -1,6 +1,6 @@
 ---
 name: Membuat Pull Request di Github
-thumbnail: ../images/cover-pr.jpg
+thumbnail: https://ibb.co/VT1LrRt
 date: 2020-09-30
 description: Di konten kali ini, saya mau menjelaskan bagaimana cara membuat Pull Request di Github, jika kalian belum tau apa itu Pull Request (PR), yuk simak selengkapnya...
 tags: ["git", "github"]
