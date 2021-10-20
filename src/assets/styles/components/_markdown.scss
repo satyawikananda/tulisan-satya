@@ -105,6 +105,11 @@ html.dark {
       @apply relative ml-5;
     }
   }
+  ol{
+    li{
+      @apply relative ml-5;
+    }
+  }
 
   img {
     @apply rounded shadow w-11/12 m-auto;
