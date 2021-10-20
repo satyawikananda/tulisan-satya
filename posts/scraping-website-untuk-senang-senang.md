@@ -3,7 +3,7 @@ name: Scraping Website untuk Senang-senang
 thumbnail: https://i.ibb.co/jvFjG9M/banner.jpg
 date: 2020-12-03
 description: Pada tulisan saat ini, saya ingin membagikan pengalaman saya mengenai web scraping, yuk simak selengkapnya...
-tags: ['scraping-website', 'node-js']
+tags: ['scraping-website', 'node-js', 'javascript']
 ---
 
 Halo semuanya, sudah lama saya tidak merilis artikel diblog saya ini dikarenakan baru sempat dan niat yang cukup untuk menulis hahaha. Pada tulisan saat ini, saya ingin membagikan pengalaman saya mengenai web scraping. Pada kasus kali ini, saya akan menscraping sebuah laman di website jurnal otaku tag waifu wednesday, dan untuk kali ini saya ingin mengambil daftar-daftar waifu yang ada dilaman tersebut.
