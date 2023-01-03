@@ -1,7 +1,7 @@
 ---
 name: Rewind 2022
 thumbnail: https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2F20230102_003219_0000.png?alt=media&token=a90cc5b9-9d58-4ed5-8805-b36e57839835
-date: 2022-12-31
+date: 2023-01-04
 description: Hanya sebuah rewind pribadiku di tahun 2022
 tags: ['blog', 'indonesian']
 ---
