@@ -58,7 +58,7 @@ const dataNavbar: NavbarMenu[] = [
 
 <template>
   <nav
-    class="z-10 text-elucidator-700 dark:text-dark-repulser-400 relative h-20 px-4"
+    class="text-elucidator-700 dark:text-dark-repulser-400 relative h-20 px-4"
     role="navigation"
     aria-label="navbar"
   >

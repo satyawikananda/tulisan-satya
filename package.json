@@ -20,6 +20,7 @@
     "@iconify/iconify": "^2.0.4",
     "@vueuse/core": "^6.5.3",
     "@vueuse/head": "^0.5.1",
+    "medium-zoom": "^1.0.8",
     "nprogress": "^0.2.0",
     "prism-theme-vars": "^0.2.2",
     "vue": "^3.2.20",

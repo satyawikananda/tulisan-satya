@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { isClient } from '@vueuse/core';
+import mediumZoom from 'medium-zoom'
 import { getRelatedArticles } from '~/data';
 import { slug, limitString } from '~/utils'
 import type { DataShare } from '~/types'
@@ -80,6 +81,14 @@ if (isClient) {
 
     navigate()
     setTimeout(navigate, 500)
+
+    document.querySelectorAll('img').forEach((img) => {
+      img.setAttribute('data-zoomable', '')
+    })
+
+    mediumZoom('[data-zoomable]', {
+      background: `hsl(228 7% 14%)`
+    })
   })
 }
 </script>
@@ -139,6 +148,9 @@ if (isClient) {
       <h1
         class="mb-5 mt-8 text-3xl text-elucidator-700 dark:text-dark-repulser-400 font-bold"
       >Related Articles</h1>
+      <template v-if="relatedArticles.length === 0">
+        <p class="text-xl text-elucidator-700 dark:text-dark-repulser-400 font-bold text-center">No Related Articles</p>
+      </template>
       <div class="mx-auto grid inline-grid gap-4 mb-5 lg:grid-cols-3 sm:grid-cols-1 md:grid-cols-2">
         <Article
           v-for="(data, i) in relatedArticles"

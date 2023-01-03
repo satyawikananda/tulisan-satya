@@ -19,17 +19,20 @@ Oke, dimulai dari bulan Januari aku masih bekerja di salah satu software house d
 
 Oke lanjut pada bulan Mei 2022, aku memutuskan untuk berhenti bekerja di software house ini karena memang di kontrak selama 2 tahun dan aku tidak memperpanjang kontrak disana karena dengan alasan aku ingin menambah pengalaman di berbagai dunia industri atau dunia kerja soalnya umur ku juga masih terbilang cukup muda dan ingin mengeksplore banyak hal di tempat lain dan bisa juga ini disebut aku keluar dari zona nyaman ku sendiri. Singkat cerita lagi, saat hari terakhir aku kerja pada tanggal 8 Mei 2022 teman-teman yang sering aku ajak makan siang memberikan banyak sekali bingkisan dan bisa dibilang bingkisan perpisahan yang macam bansos karena isinya itu seperti mie instan, snack, sambal botolan dan juga sandal 😂. Dari sana aku bersyukur mempunyai teman dan lingkungan kerja yang sama sekali tidak toxic selama 2 tahun aku bekerja disana dari 2020 - 2022.
 
-<ImageThree
-  imageOne="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-36.jpg?alt=media&token=a7410134-0658-4a90-8c88-e8876b46c1d7"
-  altOne="Foto bareng teman-teman kerja saat perpisahan"
-  descOne="Foto bareng teman-teman kerja saat perpisahan"
-  imageTwo="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-39.jpg?alt=media&token=59640ee5-49d2-4718-b70e-734ffc8cd2e4"
-  altTwo="Foto bersama"
-  descTwo="Foto bareng dengan beberapa rekan kerja walau tidak full orang-orangnya saat perpisahan"
-  imageThree="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-38.jpg?alt=media&token=d389e731-e51e-4be9-ade6-920611d7c2af"
-  altThree="example-image-two"
-  descThree="Foto dengan salah dua yang menginisiasikan pemberian 'bansos' untukku"
-/>
+<div class="grid inline-grid gap-2 sm:grid-cols-1 lg:grid-cols-3 rounded w-full">
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-36.jpg?alt=media&token=a7410134-0658-4a90-8c88-e8876b46c1d7" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto bareng teman-teman kerja saat perpisahan</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-39.jpg?alt=media&token=59640ee5-49d2-4718-b70e-734ffc8cd2e4" alt="Foto bersama" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto bareng dengan beberapa rekan kerja walau tidak full orang-orangnya saat perpisahan</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2022-12-31_03-58-38.jpg?alt=media&token=d389e731-e51e-4be9-ade6-920611d7c2af" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto dengan salah dua yang menginisiasikan pemberian 'bansos' untukku</p>
+  </div>
+</div>
 
 ## Menjadi Pengangguran
 
@@ -37,7 +40,13 @@ Selang waktu saat setelah selesai bekerja di perusahaan sebelumnya tepatnya di b
 
 Oh ya sebelum lanjut, ini ada daftar perusahaan yang sudah aku apply lamarannya dan ya tentu saja ada yang dikacangin, ditolak dan lanjut ke tahap selanjutnya.
 
-![daftar-lamaran-kerja](https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2FUntitled.png?alt=media&token=e9825656-2e20-4c54-8b8f-48784eacc92b)
+<div class="flex flex-col justify-center">
+  <img
+    src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2FUntitled.png?alt=media&token=e9825656-2e20-4c54-8b8f-48784eacc92b"
+    class="rounded shadow max-w-lg"
+  />
+  <p class="text-center">Daftar lamaran kerja yang sudah aku apply</p>
+</div>
 
 Yap sudah lihat kan ada 14 lamaran kerja yang sudah aku apply karena banyaknya lamaran kerja yang aku lamar aku sampai mencatat di Google Keep agar aku bisa mengingat lamaran kerja apa saja yang sudah aku lamar.
 
@@ -70,6 +79,66 @@ Untuk saat ini aku bekerja sebagai Frontend Engineer dengan menggunakan [Nuxt 3]
 
 Yap begitulah perjalanan karir ku selama 2022, intinya aku keluar dari zona nyaman ku untuk mendapatkan hal yang lebih menantang lagi untuk improvisasi diriku, mendapatkan teman baru tentunya dan mendapatkan ilmu baru :D.
 
+---
+
+# Event Developer
+
+Pandemi sudah mulai berakhir dan event-event developer di Bali sudah mulai banyak digelar lagi, 2019 merupakan tahun terakhir mendatangi event developer sebelum pandemi menyerang, di saat itu aku mendatangi Devfest 2019 yang diselenggarakan oleh GDG Bali. Tapi, di 2022 event developer sudah mulai digelar kembali, dan kali ini aku ingin menceritakan event apa saja yang sudah aku datangi.
+
+## Google I/O Extended Bali
+
+Bulan Juli 2022 di STMIK Primakara, Event Google yang diselenggarakan secara tahunan oleh Google ini biasanya membahas perbaruan dari teknologi yang dikembangkan oleh Google ini, tapi di [Google I/O Extended](https://gdg.community.dev/events/details/google-gdg-bali-presents-google-io-extended-bali-2022/) yang diselenggarakan oleh [GDG Bali](https://gdg.community.dev/gdg-bali/) membahas topik mulai dari mulai dari Web, Flutter, Machine Learning, JavaScript, Golang, hingga System Architecture, dan walau ini acara Google, tidak memungkinkan juga untuk membahas produk diluar Google, saat itu ada pembicara yang membawakan materi tentang [Zustand](https://github.com/pmndrs/zustand) yaitu salah satu state management [React](https://reactjs.org) yang bersifat open source di GitHub, aku mendapat banyak insight baru disini dan mendapatkan ilmu baru juga saat mengikuti acara ini, dan tentunya mendapat banyak *swag* dari event ini karena menang main [Kahoot](https://kahoot.it) wkwk.
+
+<div class="grid inline-grid gap-2 sm:grid-cols-1 lg:grid-cols-3 rounded w-full">
+  <div class="flex flex-wrap flex-col">
+    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_limit,dpr_2,f_auto,g_center,h_1440,q_auto:good,w_2048/v1/gcs/platform-data-goog/event_wrapup/1_BzC3fH1.jpg" alt="google-io-1" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto bersama saat Google I/O Extended Bali</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-03_04-12-04.jpg?alt=media&token=7103910e-6ff8-4a09-811f-615b82673868" alt="swag-event" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Yeayyy dapat swag :D</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-03_04-14-02.jpg?alt=media&token=a82e64e3-ff15-40c5-a78d-b5ae26ea3504"
+    alt="foto-google-io" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto solo di Google I/O</p>
+  </div>
+</div>
+
+## Devfest 2022
+
+Bulan November 2022, ada lagi event kedua dari komunitas GDG Bali, kali ini mereka mengadakan acara yang bernama Devfest Bali 2022 di STMIK Primakara. Devfest kali ini benar-benar berbeda dari tahun-tahun sebelumnya yang pernah aku hadiri karena partisipannya sangat ramai banget dan banyak komunitas yang mendukung acara ini seperti [GDSC INSTIKI](https://gdsc.community.dev/instiki/), [GDSC Primakara](https://gdsc.community.dev/stmik-primakara/), [GDSC Udayana](https://gdsc.community.dev/universitas-udayana/), dan Women Techmakers Bali. Oh ya ini devfest yang ke 3 kali aku hadiri. Aku juga dapat bertanya pada saat sesi Web API untuk handle media dan interaksi pada browser yang dibawakan oleh Mbak Eka Jayani yaitu seorang Google Developer Expert Web, dan aku pun mendapatkan insight baru saat menghadiri acara kali ini tetapi sayangnya tidak mendapatkan swag karena MC yang mewakili agar aku mendapatkan swag kalah bermain suit 🙃.
+
+
+<div class="grid inline-grid gap-2 sm:grid-cols-1 lg:grid-cols-2 rounded w-full">
+  <div class="flex flex-wrap flex-col">
+    <img src="https://res.cloudinary.com/startup-grind/image/upload/c_limit,dpr_2,f_auto,g_center,h_1440,q_auto:good,w_2048/v1/gcs/platform-data-goog/event_wrapup/_DSC5018.jpg" alt="google-io-1" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Foto bersama saat Devfest Bali 2022</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-03_23-17-40.jpg?alt=media&token=d9b6e92d-a7f3-41f8-81de-56c64fbc6f16" alt="swag-event" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Aku saat sesi tanya jawab :D</p>
+  </div>
+</div>
+
+## WEB3 Tour de Bali
+Workshop yang digelar pada bulan yang sama saat Devfest Bali 2022 diselenggarakan ini bertempat di The Ambengan Tenten Denpasar membahas materi tentang [Blockchain](https://blockchain.com) dan [Solidity](https://docs.soliditylang.org). Sebelumnya mohon maaf, aku lupa siapa saja pemateri yang mengisi acara ini karena aku datangnya telat saat itu wkwk, tapi pematerinya sudah bagus untuk mengajari partisipannya yang pemula banget dengan dunia Blockchain dan Solidity, aku harap kedepannya aku juga bisa berkutat lebih dalam lagi di bidang ini, benar-benar insight baru yang bagus untuk aku dapatkan.
+
+<div class="grid inline-grid gap-2 sm:grid-cols-1 lg:grid-cols-2 rounded w-full">
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-03_23-20-54.jpg?alt=media&token=f4c88245-f3ea-4c39-a4e7-8eb7cb2502f7" alt="belajar-solidity" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Belajar Solidity menggunakan Remix IDE</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-03_23-21-16.jpg?alt=media&token=26069d6e-4dd9-4e43-9d72-c3d1d7cd27fb" alt="foto-bersama-web3-tour-de-bali" class="rounded shadow" loading="lazy" />
+    <p class="text-center">Foto bersama saat selesai workshop WEB3 Tour de Bali</p>
+  </div>
+</div>
+
+Begitulah isi dari event-event developer yang aku kunjungi di tahun 2022, banyak ilmu baru yang didapatkan, semoga aku bisa menjadi pembicara di acara-acara yang serupa dengan itu semua, aamiin.
+
+---
+
 # Simping Vtuber di 2022
 2022 aku sering menonton banyak vtuber di Youtube, mereka memiliki cara masing-masing untuk menghibur penontonnya mulai dari Free talk, Karaoke, bermain games, dll. Awal mula aku suka vtuber pada saat tahun 2020 dimana kala itu aku menonton [Teh Siska Leontyne](https://www.youtube.com/channel/UC5qSx7KzdRwbsO1QmJc4d-w) dari Nijisanji Ex-id dan akhirnya keterusan deh nonton banyak beberapa vtuber lain entah dari agensi ataupun indie. Kali ini aku juga ingin menceritakan beberapa vtuber yang aku sukai di tahun 2022.
 
@@ -78,7 +147,7 @@ Yap begitulah perjalanan karir ku selama 2022, intinya aku keluar dari zona nyam
 <div class="flex flex-col items-center">
   <img 
     src="https://pbs.twimg.com/media/FNvFurdVQAYy_n9?format=jpg&name=large" 
-    class="rounded w-1/2 shadow"
+    class="rounded max-w-2xl shadow"
   />
   <p class="text-center">Rena Anggraeni dari Maha 5</p>
 </div>
@@ -91,7 +160,7 @@ Pernah disuatu ketika dia stream aku hadir ke streamnya, lebih dari 10x aku hitu
 <div class="flex flex-col justify-center">
   <img
     src="https://pbs.twimg.com/media/Fd9BWOEaMAA1qzi?format=jpg&name=large"
-    class="rounded w-1/2 shadow"
+    class="rounded max-w-2xl shadow"
   />
   <p class="text-center">Chloe Pawapua dari Re:Memories</p>
 </div>
@@ -124,7 +193,7 @@ Chloe juga membuat beberapa original song nya sendiri dan menurutku enak juga di
 <div class="flex flex-col items-center">
   <img
     src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fkobo-kanaeru-be159cbf274da6ef841a10d7605a8f4c-fede9f2a579e16a0ff17fd889a8ea4fc.png?alt=media&token=4304ee78-d0e0-44a2-afd7-d695a72f0975"
-    class="rounded w-1/2 shadow"
+    class="rounded max-w-2xl shadow"
   />
   <p class="text-center">Kobo Kanaeru dari Hololive Indonesia</p>
 </div>
@@ -150,7 +219,7 @@ Animasi Biru yang satu ini juga termasuk salah satu vtuber favoritku yang debut 
 <div class="flex flex-col items-center">
   <img
     src="https://pbs.twimg.com/ext_tw_video_thumb/1591474948606164998/pu/img/-UoeAXioO2lDPFD2?format=jpg&name=large"
-    class="rounded w-1/2 shadow"
+    class="rounded max-w-2xl shadow"
   />
   <p class="text-center">Mbak Nana Megumi</p>
 </div>
@@ -166,4 +235,47 @@ Yap itu dia beberapa vtuber yang aku jumpai di tahun 2022, sebenarnya banyak sih
 
 > Oh ya, aku juga lagi develop untuk pembuatan API dari [Vtuber Asia by Valentino Ringo](https://vtuber.asia), semoga bisa aku open source di tahun ini juga.
 
-# Event Developer
+---
+
+# Jalan-jalan
+
+Di tahun 2022, aku dapat jalan-jalan sebagai refreshing dari hiruk pikuk laptop dan huruf yang warna-warni ini wkwk. Jalan-jalan di 2022 aku seringkali bersama pacar, teman kampus, orang lain, dan juga sepupu-sepupu ku. Destinasi wisata yang aku kunjungi pun sebenarnya masih dibilang sedikit sih, karena hari libur juga sedikit di tahun 2022 wkwk, tapi aku bersyukur dapat liburan untuk menenangkan pikiran dan isi di otak ku ini.
+
+<div class="grid inline-grid gap-2 sm:grid-cols-1 lg:grid-cols-3 rounded w-full">
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-15-58.jpg?alt=media&token=ea856bcf-9855-4c36-9912-eae7c036c01b" alt="pura-bukit-batu-kursi" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Pura Bukit Batu Kursi - Singaraja saat mengikuti Tirta Yatra Kampuss (Februari 2022)</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-16-15.jpg?alt=media&token=983088bc-06ec-4e80-a126-0efda48c3b29" alt="digifest" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Saat ke Bali Digifest (April 2022)</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-16-19.jpg?alt=media&token=9534a510-3afc-45c1-9eba-b6cd15981120"
+    alt="kebun-raya-bedugul" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Kebun Raya Bedugul bersama sepupu-sepupu - Bedugul (Mei 2022)</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-16-26.jpg?alt=media&token=7f53c1f2-6924-41e1-8e1c-623f42298713"
+    alt="camping" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Camping bersama sepupu-sepupu - Bedugul (Agustus 2022)</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-16-29.jpg?alt=media&token=f0936cc2-cee4-4259-905d-d07af14c67f9"
+    alt="tirta-empul" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Sembahyang dan melukat di Pura Tirta Empul bersama pacar - Tampaksiring Gianyar (September 2022)</p>
+  </div>
+  <div class="flex flex-wrap flex-col">
+    <img src="https://firebasestorage.googleapis.com/v0/b/satyawikanandaportfolio.appspot.com/o/projects%2Fphoto_2023-01-04_01-16-33.jpg?alt=media&token=4a24143a-a429-46d6-8ba1-9cde7046e3b5"
+    alt="g-20" class="rounded w-full shadow" loading="lazy" />
+    <p class="text-center">Ke DTE Expo G20 Bali - Nusa Dua Bali Convention Center (November 2022)</p>
+  </div>
+</div>
+
+---
+
+# Wrapping Up
+
+Terima kasih kalian yang sudah membaca sampai diakhir blog ini, intinya tahun 2022 adalah tahun yang berkesan banget dan juga merupakan tahun keberuntungan ku, karena aku mendapatkan pekerjaan baru, teman baru, skill baru serta di tahun 2022 juga event-event developer sudah mulai bangkit lagi akibat dari pandemi di tahun-tahun sebelumnya. Tidak lupa juga banyak vtuber yang aku jumpai di tahun ini dan lumayan masuk ke daftar simping ku wkwk. Jalan-jalan ke berbagai tempat juga dapat di tahun ini :D.
+Semoga di tahun 2023 adalah tahun yang keberuntungan juga bagi ku dan juga bagi kalian yang membaca ini. Next goal di tahun 2023 adalah aku ingin lebih rajin lagi untuk melakukan open source di [GitHub](https://github.com/satyawikananda)ku, karena di tahun 2022, aku tidak banyak melakukan open source karena sibuk kerja dan juga sambil kuliah, aku juga saat menulis blog ini juga sudah menyiapkan projek open source yang nantinya aku *push* ke GitHub ku, jadi ditunggu aja.
+Last but not least, thank you sudah membaca blog ini, kalau mau komen, bisa komen di reply twitter saat aku posting blog ini aja ya atau di kolom komen di bawah ini boleh juga. Sampai jumpa di blog selanjutnya, Happy New Year 2023 🥳✨
